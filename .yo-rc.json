@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Interk",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "MWE1NTI0OTk3MDg3NWRiMWUwNjc1MGQ5YWNhNDRmY2EyZDMzNzE2NThiYjI5MjEyZTg3NzgyM2NkOTBhZTQzZmRiNjE0NDMzMWI5MzdhYmM5NzhjNGM1ZThmMDFlNmQzYTExMmJjODVkY2U4YWUwYzJjNzY5NDM5N2ZjODViOWE="
+  },
+  "git-provider": "GitHub",
+  "git-company": "Elchibek",
+  "repository-name": "Interkas"
+}
